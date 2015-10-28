@@ -10,9 +10,10 @@ import com.parse.Parse;
  * Created by Abhinav Tripathi on 22-Oct-15.
  */
 public class ChatAppApplication extends Application {
-    //TODO: Fill following keys
+    //TODO: Fill following keys from your parse console
     String APP_ID = "";
     String CLIENT_KEY = "";
+
     @Override
     public void onCreate() {
         super.onCreate();
