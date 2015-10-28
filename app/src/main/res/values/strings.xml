@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ChatApp_Workshop</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Login Activity Strings -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_screen_text">Please fill your credentials to login.</string>
+    <string name="new_user_text">New User?\nSignUp for a new account!</string>
+
+    <!-- SignUp Activity Strings -->
+    <string name="signup">SignUp</string>
+    <string name="signup_screen_text">Fill your details to signup!</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">E-Mail</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="termsNConditions">Agree to our terms and conditions.</string>
+
+    <!-- MainActivity Strings -->
+    <string name="welcome_text">Welcome to ChatApp!\n\nPlease login to continue.</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+    <!-- HomeScreen Strings -->
+    <string name="curContacts">Your Contacts</string>
+    <string name="addContact">+</string>
+    <string name="contactToAdd">Add Contact:</string>
+
+    <!-- AlertDialog Strings -->
+    <string name="pass_no_match_error_msg">The passwords do NOT match!</string>
+    <string name="signup_error_message">Please make sure you enter a username, password, and email address!</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="login_error_message">Please make sure you enter a username and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="verify_email_title">Email NOT verified!</string>
+    <string name="verify_email_msg">Your email is NOT verified yet!\nPlease verify your email before login.</string>
+    <string name="no_internet_msg">Internet connection could not be established. \nPlease verify that you are connected through an active connection.</string>
+    <string name="no_internet_title">Could NOT connect!</string>
+    <string name="title_activity_chat_screen">ChatScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
